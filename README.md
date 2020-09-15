@@ -31,7 +31,7 @@ docker-compose run artisan october:up
 ```
 * Now you will only need to use the quick start when using your new Dockerized CMS repo!
 
-Now you are an OctoberCMS Chad, go forth and spread your alpha seed
+Now you are an OctoberCMS Chad, go forth and spread your alpha seed.
 
 ### useful scripts
 
