@@ -3,8 +3,9 @@
 Duplicate this repo for a quick and easy Dockerized laravel CMS
 
 ### Follow First Steps if this is you are a CMS Template Virgin
+<br>
 
-##Scripts
+## Scripts
 
 **Quick Start**
 ```
@@ -15,11 +16,9 @@ Duplicate this repo for a quick and easy Dockerized laravel CMS
 
 When you set up the Docker containers for the first time you will need to do the following steps to ensure that everything is setup correctly
 
-* Run ```docker-compose up mysql```
+* Run ```docker-compose up -d```
 
-* Wait for the console to finish and say `[Note] mysqld: ready for connections.` 
-
-* Run: ```docker-compose up php```
+* Wait for the console to finish
 
 * Fix permissions for the `plugins`, `storage`, and `themes` folders/volumes so run the following:
 ```
